@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Build / compiled
+*.o
+*.so
+*.dylib
+*.dll
+
+# Logs and local data
+*.log
+*.csv
+
+# Streamlit
+.streamlit/
+
+# C++ build artifacts
+compute_engine.*
+
+# Environment files / secrets
+.env
+credentials.json
